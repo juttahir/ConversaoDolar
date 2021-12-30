@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\Tunad.AdobeLogs\\app\\src\\ConversãoDolar\\ConversãoDolar\\ConversãoDolar.csproj": {}
+    "C:\\repos\\Tunad.AdobeLogs\\app\\src\\ConversaoDolar\\ConversãoDolar\\ConversaoDolar.csproj": {}
   },
   "projects": {
-    "C:\\repos\\Tunad.AdobeLogs\\app\\src\\ConversãoDolar\\ConversãoDolar\\ConversãoDolar.csproj": {
+    "C:\\repos\\Tunad.AdobeLogs\\app\\src\\ConversaoDolar\\ConversãoDolar\\ConversaoDolar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\Tunad.AdobeLogs\\app\\src\\ConversãoDolar\\ConversãoDolar\\ConversãoDolar.csproj",
-        "projectName": "ConversãoDolar",
-        "projectPath": "C:\\repos\\Tunad.AdobeLogs\\app\\src\\ConversãoDolar\\ConversãoDolar\\ConversãoDolar.csproj",
+        "projectUniqueName": "C:\\repos\\Tunad.AdobeLogs\\app\\src\\ConversaoDolar\\ConversãoDolar\\ConversaoDolar.csproj",
+        "projectName": "ConversaoDolar",
+        "projectPath": "C:\\repos\\Tunad.AdobeLogs\\app\\src\\ConversaoDolar\\ConversãoDolar\\ConversaoDolar.csproj",
         "packagesPath": "C:\\Users\\vinim\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\Tunad.AdobeLogs\\app\\src\\ConversãoDolar\\ConversãoDolar\\obj\\",
+        "outputPath": "C:\\repos\\Tunad.AdobeLogs\\app\\src\\ConversaoDolar\\ConversãoDolar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
