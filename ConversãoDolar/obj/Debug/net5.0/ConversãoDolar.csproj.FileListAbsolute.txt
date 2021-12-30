@@ -1,0 +1,16 @@
+C:\repos\Tunad.AdobeLogs\app\src\ConversãoDolar\ConversãoDolar\obj\Debug\net5.0\ConversãoDolar.csproj.AssemblyReference.cache
+C:\repos\Tunad.AdobeLogs\app\src\ConversãoDolar\ConversãoDolar\obj\Debug\net5.0\ConversãoDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Tunad.AdobeLogs\app\src\ConversãoDolar\ConversãoDolar\obj\Debug\net5.0\ConversãoDolar.AssemblyInfoInputs.cache
+C:\repos\Tunad.AdobeLogs\app\src\ConversãoDolar\ConversãoDolar\obj\Debug\net5.0\ConversãoDolar.AssemblyInfo.cs
+C:\repos\Tunad.AdobeLogs\app\src\ConversãoDolar\ConversãoDolar\obj\Debug\net5.0\ConversãoDolar.csproj.CoreCompileInputs.cache
+C:\repos\Tunad.AdobeLogs\app\src\ConversãoDolar\ConversãoDolar\bin\Debug\net5.0\ConversãoDolar.exe
+C:\repos\Tunad.AdobeLogs\app\src\ConversãoDolar\ConversãoDolar\bin\Debug\net5.0\ConversãoDolar.deps.json
+C:\repos\Tunad.AdobeLogs\app\src\ConversãoDolar\ConversãoDolar\bin\Debug\net5.0\ConversãoDolar.runtimeconfig.json
+C:\repos\Tunad.AdobeLogs\app\src\ConversãoDolar\ConversãoDolar\bin\Debug\net5.0\ConversãoDolar.runtimeconfig.dev.json
+C:\repos\Tunad.AdobeLogs\app\src\ConversãoDolar\ConversãoDolar\bin\Debug\net5.0\ConversãoDolar.dll
+C:\repos\Tunad.AdobeLogs\app\src\ConversãoDolar\ConversãoDolar\bin\Debug\net5.0\ref\ConversãoDolar.dll
+C:\repos\Tunad.AdobeLogs\app\src\ConversãoDolar\ConversãoDolar\bin\Debug\net5.0\ConversãoDolar.pdb
+C:\repos\Tunad.AdobeLogs\app\src\ConversãoDolar\ConversãoDolar\obj\Debug\net5.0\ConversãoDolar.dll
+C:\repos\Tunad.AdobeLogs\app\src\ConversãoDolar\ConversãoDolar\obj\Debug\net5.0\ref\ConversãoDolar.dll
+C:\repos\Tunad.AdobeLogs\app\src\ConversãoDolar\ConversãoDolar\obj\Debug\net5.0\ConversãoDolar.pdb
+C:\repos\Tunad.AdobeLogs\app\src\ConversãoDolar\ConversãoDolar\obj\Debug\net5.0\ConversãoDolar.genruntimeconfig.cache
